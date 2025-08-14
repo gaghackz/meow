@@ -1,5 +1,9 @@
 
 fhkjlasf
+<<<<<<< HEAD
 fksjd hi man
 
 this is the change brodda
+=======
+fksjd hi man
+>>>>>>> 3848dfb6a6757ee4f443ee0348e4a4c9e81f45b0
